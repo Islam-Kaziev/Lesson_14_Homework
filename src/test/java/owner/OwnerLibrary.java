@@ -1,7 +1,6 @@
 package tests.owner;
 
 
-import config.ProjectConfig;
 import org.junit.Before;
 import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
